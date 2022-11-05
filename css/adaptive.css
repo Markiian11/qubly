@@ -1,0 +1,88 @@
+@media (min-width: 1879px){
+    .main_section{
+        height: 900px;
+    }
+    .logo{
+        margin-left: 300px;
+    }
+    nav{
+        margin-left: 500px;
+    }
+    .main{
+        margin-top: 60px;
+        margin-left: 300px;
+    }
+    .main_png{
+        margin-left: -200px;
+    }
+    .features{
+        margin-left: 10px;
+    }
+    .launch_img{
+        margin-left: 100px;
+    }
+    .launch_info{
+        margin-right: 400px;
+    }
+    .data-driven{
+        margin-left: 350px;
+    }
+    .data_img{
+        margin-left: -380px;
+    }
+    .quote{
+        height: 950px;
+        padding-top: 30px;
+    }
+    h5{
+        padding-top: 300px;
+    }
+    .guillaume{
+        margin-left: -15px;
+    }
+    hr{
+        margin-left: 430px;
+    }
+    .logos{
+        margin-left: 430px;
+    }
+    .see_why{
+        margin-left: 300px;
+    }
+    .sign_up{
+        margin-right: 450px;
+    }
+    footer{
+        margin-left: 60px;
+        width: 1480px;
+    }
+}
+@media (min-width: 1441px){
+    .main_section{
+        height:910px;
+    }
+    .main_png{
+        margin-right: 500px;
+    }
+    .features{
+        margin-left: 445px;
+    }
+    .data_img{
+        margin-right: 400px;
+    }
+    hr{
+        margin-left: 400px;
+    }
+    .logos{
+        margin-left: 400px;
+    }
+    .sign_up{
+        margin-right: 350px;
+    }
+    .quote{
+        height: 950px;
+    }
+    h5{
+        padding-top: 250px;
+    }
+}

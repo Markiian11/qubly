@@ -440,10 +440,12 @@ input{
     margin-top: 16px;
     margin-left: 42px;
     border-radius:4px;
+    border:#722ED1;
 }
 .sign_btn:hover{
     color:#722ED1;
     background:#fff;
+    border: 1px solid #722ED1;
 }
 input{
     width: 348px;
