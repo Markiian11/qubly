@@ -15,20 +15,11 @@
     .main_png{
         margin-left: -200px;
     }
-    .features{
-        margin-left: 10px;
+    .container-md{
+        margin-left: 440px;
     }
-    .launch_img{
-        margin-left: 100px;
-    }
-    .launch_info{
-        margin-right: 400px;
-    }
-    .data-driven{
-        margin-left: 350px;
-    }
-    .data_img{
-        margin-left: -380px;
+    .get_img{
+        margin-left: 135px;
     }
     .quote{
         height: 950px;
@@ -42,6 +33,30 @@
     }
     hr{
         margin-left: 430px;
+    }
+    .trusted::before{
+        content:'';
+        position: absolute;
+        background-color:#D6D6D6;
+        display:inline-block;
+        height: 1px;
+        width: 144px;
+        left: 295px;
+        transform: translateY(-50%);
+        margin-top: 12px;
+        border:none;
+    }
+    .trusted::after{
+        content:'';
+        position: absolute;
+        background-color:#D6D6D6;
+        display:inline-block;
+        height: 1px;
+        width: 144px;
+        left: 540px;
+        transform: translateY(-50%);
+        margin-top: 12px;
+        border:none;
     }
     .logos{
         margin-left: 430px;
@@ -57,6 +72,7 @@
         width: 1480px;
     }
 }
+
 @media (min-width: 1441px){
     .main_section{
         height:910px;
@@ -66,15 +82,6 @@
     }
     .features{
         margin-left: 445px;
-    }
-    .data_img{
-        margin-right: 400px;
-    }
-    hr{
-        margin-left: 400px;
-    }
-    .logos{
-        margin-left: 400px;
     }
     .sign_up{
         margin-right: 350px;
